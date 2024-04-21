@@ -1,7 +1,7 @@
 # AGDN
-Attention Guidance Distillation Network for Efficient Image Super-Resolution
+Hongyuan Wang, Ziyan Wei, Qingting Tang, Shuli Cheng*, Liejun Wang*, and Yongming Li."Attention Guidance Distillation Network for Efficient Image Super-Resolution" in 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW).
 
-Hongyuan Wang, Ziyan Wei, Qingting Tang, Shuli Cheng, Liejun Wang, and Yongming Li
+
 
 ## Environment
 - [PyTorch == 2.1.2](https://pytorch.org/)
